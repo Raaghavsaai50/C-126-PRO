@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+}
+.note{
+    color: black;
+    font-size: 15px;
+}
+#song{
+      font-size: 25;
+}
